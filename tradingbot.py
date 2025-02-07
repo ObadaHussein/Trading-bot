@@ -8,9 +8,9 @@ from timedelta import Timedelta
 from finbert_utils import *
 
 
-API_KEY = "PKWQV4CCAADKDMNASPOV"
-API_SECRET = "n2yzpK7NLIo8OFw3gypqJ10db8sMHhOepQne9XEg"
-BASE_URL = "https://paper-api.alpaca.markets/v2"
+API_KEY = ""
+API_SECRET = ""
+BASE_URL = ""
 
 ALPACA_CREDS = {
     "API_KEY":API_KEY,
